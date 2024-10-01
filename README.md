@@ -2,6 +2,9 @@
 
 2d space game using flutter and flame.
 
+## To see the full explaination go here:
+## <a href = "https://medium.com/@kshitizdayal14/2d-game-in-flutter-using-flame-af94731ec28e"> Medium Article</a>
+
 ## Screenshots 
 
 ![Screenshot_1727779259](https://github.com/user-attachments/assets/c917b750-7adb-4dfc-a1e1-f19b53bf9259)

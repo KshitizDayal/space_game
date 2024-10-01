@@ -1,16 +1,9 @@
 # space_game
 
-A new Flutter project.
+2d space game using flutter and flame.
 
-## Getting Started
+## Screenshots 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1727779259](https://github.com/user-attachments/assets/c917b750-7adb-4dfc-a1e1-f19b53bf9259)
+![Screenshot_1727779273](https://github.com/user-attachments/assets/5a852bb7-e256-4d19-b60e-14fc7bd187e5)
+![Screenshot_1727779269](https://github.com/user-attachments/assets/ce6424be-9208-46bf-93b2-e6ae5303f27f)
